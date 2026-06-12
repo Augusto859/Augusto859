@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Augusto+Sales!;+Seja+Bem+Vindo(a)<img width="498" height="278" alt="StandingOvationGIF" src="https://github.com/user-attachments/assets/2c04db11-abb1-4165-9c6c-7a199cc2a87d" />
-" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Augusto+Sales!;+Seja+Bem+Vindo(a)" />
 </h1>
 <h3>Desenvolvedor Python-End</h3>
 
