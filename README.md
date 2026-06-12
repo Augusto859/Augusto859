@@ -3,6 +3,12 @@
 </h1>
 <h3>Desenvolvedor Python-End</h3>
 
+##
+
+Eu estou estudando sobre Desenvolvimento de Sistemas 
+Eu estou programando em Python 
+
+
 <!--
 **Augusto859/Augusto859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
