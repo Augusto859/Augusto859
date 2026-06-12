@@ -30,7 +30,7 @@ Eu estou programando em Python 🐍
   <img align="center" alt="Augusto-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
-
+https://github.com/augusto859/augusto859/blob/output/github-contribution-grid-snake.svg
 
 <!--
 <div>
