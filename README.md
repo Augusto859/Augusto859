@@ -32,7 +32,7 @@ Eu estou programando em Python 🐍
 
 ##
 
-![Snake animation](https://github.com/augusto/augusto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Augusto859/Augusto859/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <div>
